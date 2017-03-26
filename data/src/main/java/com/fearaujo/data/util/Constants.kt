@@ -6,8 +6,8 @@ import com.fearaujo.data.BuildConfig
  * Created by felipearaujo on 06/12/16.
  */
 
-object Constants {
+object AppKey {
 
-    val PUBLIC_KEY = BuildConfig.API_KEY
+    const val PUBLIC_KEY = BuildConfig.API_KEY
 
 }
